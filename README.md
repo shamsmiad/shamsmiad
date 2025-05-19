@@ -22,7 +22,7 @@
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shams-dev&show_icons=true&theme=tokyonight" alt="shams-dev stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shamsalm0&show_icons=true&theme=tokyonight" alt="shams-dev stats" />
 </p>
 
 ---
